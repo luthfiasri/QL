@@ -4174,7 +4174,6 @@ div.attachment .wp-video{
 
 
 	/* position and look */
-	content: "\e114";
 	opacity: 0;
 	position: absolute;
 	z-index: 5;
